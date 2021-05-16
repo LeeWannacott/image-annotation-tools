@@ -1,0 +1,10 @@
+# Dependencies to install
+
+Linux:
+
+sudo apt-get install python3-tk
+pip3 install numpy 
+pip3 install opencv-python
+pip3 install pyautogui
+pip3 install natsort
+pip3 install easygui
